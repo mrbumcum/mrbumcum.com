@@ -3,11 +3,26 @@
 
 <head>
   <meta charset="utf-8">
-  <title>MyBlog</title>
+  <title></title>
+  <link rel="preload" href="/fonts.css" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/fonts.css"></noscript>
+  <link rel="stylesheet" href="/reset.css">
+  <link rel="stylesheet" href="/base.css">
+  <link rel="stylesheet" href="/layout.css">
+  <link rel="stylesheet" href="/projects.css">
 </head>
 
 <body>
   <section class="section">
+    <header>
+      <h1><a href="{{ get_url(path='/') }}">mrbumcum</a></h1>
+      <nav>
+        <a href="{{ get_url(path='/about') }}">About</a>
+        <a href="{{ get_url(path='/blog') }}">Blog</a>
+        <a href="{{ get_url(path='/projects') }}">Projects</a>
+      </nav>
+    </header>
+    <hr>
     <div class="container">
       {% block content %} {% endblock content %}
     </div>
