@@ -4,11 +4,19 @@
 <h1 class="title">
   {{ section.title }}
 </h1>
-<ul>
+<div class="blog-stack" role="list">
   <!-- If you are using pagination, section.pages will be empty.
-       You need to use the paginator object -->  
+       You need to use the paginator object -->
   {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+    <a class="blog-stack-item" href="{{ page.permalink | safe }}" role="listitem">
+      <div class="blog-stack-item__date">{{ page.date }}</div>
+      <div class="blog-stack-item__title">{{ page.title }}</div>
+      {% if page.extra.subtitle %}
+        <div class="blog-stack-item__subtitle">{{ page.extra.subtitle }}</div>
+      {% elif page.subtitle %}
+        <div class="blog-stack-item__subtitle">{{ page.subtitle }}</div>
+      {% endif %}
+    </a>
   {% endfor %}
-</ul>
+</div>
 {% endblock content %}

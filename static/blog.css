@@ -1,0 +1,64 @@
+.blog-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+    padding: 0.4rem 0;
+}
+
+.blog-stack-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0.85rem 0.95rem;
+    border-radius: 0.6rem;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color 120ms ease, transform 120ms ease;
+}
+
+.blog-stack-item:hover {
+    background-color: #e9e6e2;
+    transform: translateY(-1px);
+}
+
+.blog-stack-item:focus-visible {
+    outline: 2px solid #555;
+    outline-offset: 3px;
+}
+
+.blog-stack-item__date {
+    color: #8e908a;
+    font-size: 1rem;
+    letter-spacing: 0.01em;
+}
+
+.blog-stack-item__title {
+    font-weight: 700;
+    font-size: 1.9rem;
+    line-height: 1.1;
+}
+
+.blog-stack-item__subtitle {
+    font-style: italic;
+    color: #555;
+    font-size: 1.35rem;
+    line-height: 1.45;
+}
+
+.blog-post-subtitle {
+    font-style: italic;
+    color: #555;
+    margin: 0.4rem 0 1.2rem 0;
+    font-size: 1.7rem;
+    line-height: 1.35;
+}
+
+.blog-meta {
+    /* Overrides `.subtitle` from layout.css so meta sits closer to the title/subtitle. */
+    margin: 0 0 2rem 0;
+}
+
+.blog-title {
+    padding-top: 2rem;
+}
+
