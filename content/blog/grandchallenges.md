@@ -8,6 +8,8 @@ subtitle = "engineering for the community. yay!"
 
 I started by Antonio promoting it to me, I stayed because of how the program pushed me outside of my comfort zone and made me into a more well-rounded engineer. Let's go through what I've done with the program.
 
+(Shoutout to Antonio!)
+
 ## Business Competency: SMILE Fund
 
 At the SMILE Fund, I have served as Chief Analyst since September 2023. A lot of my weekly rhythm came from building Excel models for DCF and revenue trends, then using Power BI dashboards to aggregate data, track stock performance, and compare peers in tech.
@@ -15,8 +17,6 @@ At the SMILE Fund, I have served as Chief Analyst since September 2023. A lot of
 I also spent a lot of time mentoring and onboarding analysts. Over time that became 40+ junior and lead analysts across the technology sector. Reviewing their models and equity research forced me to sharpen not only technical accuracy, but consistency and communication standards across a team.
 
 One of the highlights was presenting in New York at the GAME Forum where we listened to industry leaders about the state of the market.
-
-I also produced stock reports, including work on AMD, that pushed me to connect macro narratives, fundamentals, and valuation discipline in one coherent story.
 
 ![SMILE Fund NYSE presentation context](/images/nyse.jpeg)
 
@@ -26,7 +26,7 @@ I also produced stock reports, including work on AMD, that pushed me to connect 
 
 As an AI/ML Research Intern at the University of Tennessee-Oak Ridge Innovation Institute (May 2024 to August 2024), I worked on a problem that sat directly between physics and machine learning: identifying superconducting pairing symmetries from quasiparticle interference (QPI) spectra.
 
-I designed and implemented a convolutional neural network in Python using PyTorch, then evaluated performance on s-wave versus chiral d-wave superconductors. The model reached 97% to 100% classification accuracy, which was exciting not just because of the number, but because it showed we could make the workflow more reliable for researchers interpreting complex patterns.
+I designed and implemented a convolutional neural network in Python using PyTorch, then evaluated performance on s-wave versus chiral d-wave superconductors. This research experience gave me the confidence to work on fields outside of my own, and made me understand the benefits of multidisciplinary work. Researchers are capable of discovering more if people in different expertise leverage their domain knowledge (physics for them, coding for me.)
 
 I also built an automated analysis component using Grad-CAM so researchers could see where the model was focusing, including subtle features that are easy to miss through standard observational inspection alone.
 
@@ -35,7 +35,7 @@ I also built an automated analysis component using Grad-CAM so researchers could
 
 ### Podcasting
 
-Another interdisciplinary part of my growth came through podcasting. I learned how to set up audio equipment, direct conversations, edit episodes, and most importantly extract stories that people actually care about. That process trained me to listen first, understand what the community is going through, and distill those experiences into a form that is digestible, honest, and communicable to a wider audience.
+Another interdisciplinary part of my growth came through podcasting. I learned how to set up audio equipment, direct conversations, edit episodes, and most importantly extract stories that people actually care about. That process trained me to listen first, understand what the community is going through, and distill those experiences into a form that is digestible.
 
 ![Podcasting](/images/podcasting.png)
 
@@ -54,7 +54,7 @@ The system uses a React frontend and FastAPI backend, with an LLM integrated int
 
 In the quantitative pipeline, the model proposes code, runs it in a sandbox, and surfaces outputs alongside explanations. That "generate -> run -> explain" loop is intentional. It makes results more inspectable, and it turns each run into something closer to a reproducible experiment: prompt (hypothesis), generated code (method), execution trace (experiment), and captured output (result).
 
-What matters to me most is that uncertainty is not hidden. If code fails, if schema assumptions break, or if outputs are brittle, the system shows that explicitly. That transparency is the point. Scientific and analytical tools should help us think better, not just answer faster.
+What matters to me most is that uncertainty is not hidden. If code fails, if schema assumptions break, or if outputs are brittle, the system shows that explicitly. 
 
 ![DataPeer system and thesis competency](/images/datapeer.png)
 
@@ -75,6 +75,7 @@ At EmoryHacks, my team earned runner-up in the Education Track with **FieldReady
 This project made me more community-focused: listen to what people go through, then turn that into tools that are clear, practical, and trustworthy.
 
 Project repo: [FieldReady on GitHub](https://github.com/mrbumcum/dispatch).
+Project demo: [FieldReady on Devpost](https://devpost.com/software/dispatch-a78nv5).
 
 ![FieldReady at EmoryHacks](/images/emory-hackathon.jpeg)
 
