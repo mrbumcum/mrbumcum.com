@@ -41,10 +41,12 @@ img {
 .intro {
     display: flex;
     align-items: flex-start;
+    gap: 1.5rem;
 }
 
 .intro-content {
     flex: 1;
+    min-width: 0;
 }
 
 .intro-text {
@@ -52,21 +54,12 @@ img {
 }
 
 .intro-image {
+    flex-shrink: 0;
     padding-top: 2rem;
-    width: 15rem;
+    width: min(15rem, 35vw);
     height: auto;
     border-radius: 0.8rem;
     object-fit: cover;
-}
-
-@media (max-width: 700px) {
-    .intro {
-        flex-direction: column;
-    }
-
-    .intro-image {
-        width: min(100%, 280px);
-    }
 }
 
 header a,
