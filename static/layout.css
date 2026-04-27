@@ -1,3 +1,9 @@
+/* Match the comfortable density of ~75% browser zoom at 100% (smaller type + spacing). */
+html {
+    font-size: 80%;
+}
+
+
 html, body {
     background-color: #F4F3F2;
 }
@@ -26,10 +32,15 @@ p {
     margin-bottom: 1.5rem;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .intro {
     display: flex;
     align-items: flex-start;
-    gap: 1.5rem;
 }
 
 .intro-content {
@@ -81,25 +92,26 @@ header nav a:hover {
 
 pre {
     font-family: monospace;
-    overflow: scroll;
-    padding: 1.2rem;
+    overflow-x: auto;
+    padding: 0;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     border-radius: 0.8rem;
-    background-color: #e8e7e5;
+    background: transparent;
 }
 
 code {
     font-family: monospace;
     background-color: #e8e7e5;
-    padding: 1rem 2rem;
+    padding: 0.12em 0.35em;
     border-radius: 0.8rem;
 }
 
 pre code {
-    background: none;
-    padding: 0;
-    border-radius: 0;
+    display: block;
+    background: transparent;
+    padding: 1.2rem;
+    border-radius: 0.8rem;
 }
 
 .subtitle {
