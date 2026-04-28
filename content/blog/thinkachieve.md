@@ -8,7 +8,7 @@ subtitle = "a reflection on ThinkAchieve"
 
 
 ## one
-The word *experimental* comes from the Latin *experimentum*: "a trial, test, proof", which itself traces back to *experiri*, "to try." At its core, experimental learning is about gaining experience from something new. Doing something outside your comfort zone. Pushing past your own boundaries.
+The word *experiential* comes from the Latin *experimentum*: "a trial, test, proof", which itself traces back to *experiri*, "to try." At its core, experiential learning is about gaining experience from something new. Doing something outside your comfort zone. Pushing past your own boundaries.
 
 Before college, I had a stubborn plan. I'd get there, network, make friends, and go all in on computer science: deepening my skills and diversifying my knowledge strictly within my domain. A spike, not being a well-rounded student as people would like you to be. I'd spent high school trying to be well-rounded, and I was ready for change.
 
@@ -16,7 +16,7 @@ Freshman year challenged that belief pretty fast.
 
 ## two
 
-My stubbornness had one weakness: I'm competitive. ThinkAchieve awards points for each experimental learning avenue you try, and the moment I saw that, I stopped asking *why* and started asking *how many*. I was like a fish caught in a hook, the only thing is I was caught knowingly. What started as an incentive became something I actually cared about.
+My stubbornness had one weakness: I'm competitive. ThinkAchieve awards points for each experiential learning avenue you try, and the moment I saw that, I stopped asking *why* and started asking *how many*. I was like a fish caught in a hook, the only thing is I was caught knowingly. What started as an incentive became something I actually cared about.
 
 ## three
 
@@ -39,7 +39,7 @@ That's a sample. I've been to over 25~ish events, and each one of them was enric
 ## four
 Who would've thought I'd be podcasting in college?
 
-I took a podcasting class with the honors college and it was genuinely experimental for me. There were a couple lessons I had to learn.
+I took a podcasting class with the honors college and it was genuinely experiential for me. There were a couple lessons I had to learn.
 
 1. **kill your darlings**: my professor's favorite phrase. you only have a limited amount of time, and your job is to extract the essence of a story rather than include everything. that lesson translated directly into how I approach software. know what you want to build, build that, and resist the urge to feature creep everything into oblivion.
 2. **be intentional**: know what you want to say before you say it. have a point. follow through on it. that sounds obvious until you're sitting in an editing bay at 11pm wondering why your episode feels like it's going in five directions at once.
