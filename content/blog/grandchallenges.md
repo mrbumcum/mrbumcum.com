@@ -12,7 +12,7 @@ My introduction to the Grand Challenges Program began with Antonio recruiting me
 (Shout out to Antonio!)
 
 ## hierarchy
-Eight years ago I learned about Maslow’s Hierarchy of Needs [1].
+Eight years ago I learned about Maslow’s Hierarchy of Needs [^1].
 
 (or maybe it was closer to ten)
 
@@ -20,7 +20,7 @@ For a person to be fulfilled you need to fulfill some tenets bottom up: first co
 
 I wondered at the time whether this framework still held up when you tried to scale it up. Not for a person, but for a group, a community, or  even something as large and abstract as “society”. It felt like it should translate. But I’m not sure if it does cleanly.
 
-When we talk about solving large problems, we often start with solutions before defining what exactly we’re trying to solve [2]. Scope becomes an afterthought, when it probably should be the starting point.
+When we talk about solving large problems, we often start with solutions before defining what exactly we’re trying to solve [^2]. Scope becomes an afterthought, when it probably should be the starting point.
 
 Because to solve a problem effectively, you need to understand its boundaries first. And in order to address humanities problems from a bottom-up approach you need to zoom out of that scope, and holistically understand what it is humanity needs.
 
@@ -38,7 +38,7 @@ mapping = {
 }
 ```
 
-…or, if you follow the graphic from USC Viterbi’s Grand Challenges Program [3], you end up somewhere in the same direction.
+…or, if you follow the graphic from USC Viterbi’s Grand Challenges Program [^3], you end up somewhere in the same direction.
 
 ![Maslow Hierarchy of Needs to Humanity](/images/hierarchy-of-humanity.png)
 
@@ -57,7 +57,7 @@ Those are the competencies that help you become well-rounded.
 That's exactly the thesis of this program - get out there, work with other interdisciplinary, and create something that enriches anything in the hierarchy of humanity. Because with the intent of serving people and meeting those needs, you are sure to contribute in solving one of our grand challenges.
 
 ## growth
-I treated the program like an MMORPG. As far as I knew I had five buckets I had to max out.
+I treated the program like an MMORPG[^4]. As far as I knew I had five buckets I had to max out.
 
 What did I choose to do? Pick the one where I know I’d struggle with the most: the Business Competency
 
@@ -66,9 +66,9 @@ I went to the business career fair, which was mostly a field of quarter-zips and
 One of them mentioned they ran a student-managed fund. About a million dollars. That was enough to get my attention.
 They were a bottom up fund AKA you find a stock and work your way up to the macroeconomic landscape. Or more simply: find a stock, research it, decide whether to buy. Rinse and repeat.
 They told me to apply.
-So I did.
+So I did[^5].
 
-I ended up in the Bloomberg lab, which felt like being dropped into a completely different language. EBITDA. Bonds. Discount rates. I remember realizing pretty quickly that I didn’t actually understand how most of this worked [].
+I ended up in the Bloomberg lab, which felt like being dropped into a completely different language. EBITDA. Bonds. Discount rates. I remember realizing pretty quickly that I didn’t actually understand how most of this worked.
 
 But the whole point of the program was for you to drink from a fire house - either you sink and soak everything up like a sponge or you sink (ask for help!)
 
@@ -151,3 +151,11 @@ Also, I was the first person to brush in Rieti, and that itself is an accomplish
 The end product of all this was something I am genuinely proud of. It felt like an ending, but also the beginning of a new journey.
 
 I proved to myself that I can improve, adapt, and build things I once thought were out of reach. At the same time, it marked the end of my Grand Challenges curriculum at school, which is bittersweet.
+
+---
+
+[^1]: here’s the hierarchy of needs (i wonder what you feel like you could work on): [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
+[^2]: classic pitfall, bozo, define your scope first. Sustainable Development Goals: a framework for peace and prosperity for people and the planet. There’s 17 interesting challenges laid out by them, check it out: [https://sdgs.un.org/goals](https://sdgs.un.org/goals)
+[^3]: see the similarities!?: [https://viterbischool.usc.edu/vision2026/](https://viterbischool.usc.edu/vision2026/)
+[^4]: Massively Multiplayer Online Role-Play Game: basically a game where thousands of players play and go on adventures, level up, and get stronger (:
+[^5]: throw a cs major in a bunch of business majors: what do you get? one burnout away from Series A.

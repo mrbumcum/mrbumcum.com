@@ -62,3 +62,36 @@
     padding-top: 2rem;
 }
 
+/* Zola footnotes render as .footnote-definition blocks (not .footnotes ol) */
+.footnote-definition {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.45rem;
+    margin: 0.5rem 0;
+}
+
+/* Add some space between the hr and the first footnote definition */
+hr + .footnote-definition {
+    margin-top: 3rem;
+}
+
+.footnote-definition-label {
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 1.6;
+    min-width: 2.6rem;
+    vertical-align: baseline;
+}
+
+.footnote-definition-label::before {
+    content: "[";
+}
+
+.footnote-definition-label::after {
+    content: "]";
+}
+
+.footnote-definition p {
+    margin: 0;
+}
+
