@@ -63,9 +63,12 @@ What did I choose to do? Pick the one where I know I’d struggle with the most:
 
 ### SMILEFund (Business Competency):
 I went to the business career fair, which was mostly a field of quarter-zips and khakis, and wandered between booths, marketing, consulting, investment firms, without really knowing what I was looking for.
-One of them mentioned they ran a student-managed fund. About a million dollars. That was enough to get my attention.
-They were a bottom up fund AKA you find a stock and work your way up to the macroeconomic landscape. Or more simply: find a stock, research it, decide whether to buy. Rinse and repeat.
+
+
+One of them mentioned they ran a student-managed fund. About a million dollars. That was enough to get my attention. They were a bottom up fund AKA you find a stock and work your way up to the macroeconomic landscape. Or more simply: find a stock, research it, decide whether to buy. Rinse and repeat.
+
 They told me to apply.
+
 So I did[^5].
 
 I ended up in the Bloomberg lab, which felt like being dropped into a completely different language. EBITDA. Bonds. Discount rates. I remember realizing pretty quickly that I didn’t actually understand how most of this worked.
