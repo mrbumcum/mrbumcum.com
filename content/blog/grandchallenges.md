@@ -144,7 +144,7 @@ I also got to know my peers in a completely different light. Before this trip I 
 
 ![Italy Group Photo](/images/italy-group.jpg)
 
-Also, I was the first person to brush in Rieti, and that itself is an accomplishment.
+Also, I was the first person from the University of Tennessee documented to brush their teeth in Rieti, and that itself is an accomplishment [^6]
 
 ![Rieti Brushing Teeth](/images/rieti-brushing-teeth.jpg)
 
@@ -159,3 +159,4 @@ I proved to myself that I can improve, adapt, and build things I once thought we
 [^3]: see the similarities!?: [https://viterbischool.usc.edu/vision2026/](https://viterbischool.usc.edu/vision2026/)
 [^4]: Massively Multiplayer Online Role-Play Game: basically a game where thousands of players play and go on adventures, level up, and get stronger (:
 [^5]: throw a cs major in a bunch of business majors: what do you get? one burnout away from Series A.
+[^6]: This will be a banger photo for the moms in facebook.
